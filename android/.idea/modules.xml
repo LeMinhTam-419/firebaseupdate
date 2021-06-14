@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-901917833/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-901917833/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-740589981/android.firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-740589981/android.firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/440836056/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/440836056/android.image_picker.iml" />
+    </modules>
+  </component>
+</project>
